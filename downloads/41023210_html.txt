@@ -161,7 +161,7 @@ hw1_2 = button2(hw1_2_url)
 doc["hw1_2"].bind('click', hw1_2.do)
 ################################## hw1_2 end
 ################################# final2 start 
-final2_url = "https://gist.githubusercontent.com/junpig10/cff1c47e21a4a60116b23062421feabf/raw/4895b5d97913b21514a93fa34d265ad01f28e138/final2"
+final2_url = "https://gist.githubusercontent.com/junpig10/cff1c47e21a4a60116b23062421feabf/raw/370ad341ab2a2b7732ac47c7d57cadf040b640a9/final2"
 final2 = button2(final2_url)
 doc["final2"].bind('click', final2.do)
 ################################## final2 end
